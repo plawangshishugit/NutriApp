@@ -118,7 +118,7 @@ Love NutriApp? Fork the repo, tweak the code, and submit a pull request. Let’s
 ## 📬 Contact: Reach Out in Style
 
 - **Email**: shishuplawang@gmail.com
-- **GitHub**: [yourusername](https://github.com/plawangshishugit)
+- **GitHub**: [plawangshishugit](https://github.com/plawangshishugit)
 
 ---
 
