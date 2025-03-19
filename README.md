@@ -1,7 +1,7 @@
 
 # NutriApp: Savor Your Destiny
 
-![NutriApp Banner](https://via.placeholder.com/1200x400.png?text=NutriApp+-+Savor+Your+Destiny)  
+![NutriApp Banner](./intro.png)  
 *“In every bite, a whisper of eternity—nourish your soul.”*
 
 Welcome to **NutriApp**, a seductive fusion of science and allure that crafts personalized diet plans tailored to your goals, budget, and regional flavors. This isn’t just an app—it’s a journey into a world where nutrition meets temptation, powered by cutting-edge tech and wrapped in a breathtakingly sexy UI.
@@ -45,7 +45,7 @@ Dive into a cosmic dark theme, glowing gradients, and a visionary experience tha
 ### Steps
 1. **Clone the Repository** (if hosted on GitHub):
    ```bash
-   git clone https://github.com/yourusername/nutriapp.git
+   git clone https://github.com/plawangshishugit/nutriapp.git
    cd nutriapp
    ```
 
@@ -91,11 +91,9 @@ Dive into a cosmic dark theme, glowing gradients, and a visionary experience tha
 
 | **Page**          | **Preview**                                                                 |
 |-------------------|-----------------------------------------------------------------------------|
-| **Homepage**      | ![Home](https://via.placeholder.com/600x400.png?text=Sexy+Homepage+Grid)   |
-| **Register**      | ![Register](https://via.placeholder.com/600x400.png?text=Glowing+Register) |
-| **Diet Plan**     | ![Diet Plan](https://via.placeholder.com/600x400.png?text=Divine+Feast)    |
-
-*(Replace placeholders with real screenshots after deployment!)*
+| **Homepage**      | ![Home](./login.png)   |
+| **Register**      | ![Register](signIn.png) |
+| **Diet Plan**     | ![Diet Plan](profile.png)    |
 
 ---
 
