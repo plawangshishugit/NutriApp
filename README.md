@@ -4,9 +4,9 @@
 ![NutriApp Banner](./intro.png)  
 *“In every bite, a whisper of eternity—nourish your soul.”*
 
-Welcome to **NutriApp**, a seductive fusion of science and allure that crafts personalized diet plans tailored to your goals, budget, and regional flavors. This isn’t just an app—it’s a journey into a world where nutrition meets temptation, powered by cutting-edge tech and wrapped in a breathtakingly sexy UI.
+Welcome to **NutriApp** is where smart tech meets the big questions about how we fuel our lives. Built with tools like React for the front end, Node.js for the backbone, and Python for some clever number-crunching, this app creates diet plans just for you—day by day, week by week. It takes simple stuff like your age, gender, weight, height, and what you want (maybe lose a few pounds or build some muscle) and mixes it with local veggie prices to give you a plan that’s both doable and smart.
 
-Dive into a cosmic dark theme, glowing gradients, and a visionary experience that makes planning your diet feel like a ritual of self-love. Whether you’re shedding weight, building muscle, or embracing vitality, NutriApp is your sultry companion.
+But NutriApp isn’t just about numbers—it’s got soul. Think of it as a quiet nudge: “Every bite holds a little piece of forever.” With its dark, glowing design and smooth, eye-catching moves, it turns planning your meals into something deeper—a way to connect with yourself. It’s tech that’s easy to use and a chance to see eating as more than just food, but a step toward who you want to be. Jump in and let your diet tell your story.
 
 ---
 
