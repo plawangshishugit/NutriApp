@@ -93,7 +93,7 @@ But NutriApp isn’t just about numbers—it’s got soul. Think of it as a quie
 |-------------------|-----------------------------------------------------------------------------|
 | **Homepage**      | ![Home](./login.png)   |
 | **Register**      | ![Register](signIn.png) |
-| **Diet Plan**     | ![Diet Plan](profile.png)    |
+| **Profile**     | ![Diet Plan](profile.png)    |
 
 ---
 
