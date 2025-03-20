@@ -14,9 +14,9 @@ But NutriApp isn’t just about numbers—it’s got soul. Think of it as a quie
 
 - **Personalized Diet Plans**: Daily and weekly suggestions based on your age, gender, weight, height, goals, and region—delivered with irresistible flair.
 - **Live Market Magic**: Mock veggie prices (expandable to real APIs like Agmarknet) ensure your plan fits your wallet.
-- **Seductive Meal Display**: Feast your eyes on stunning food cards with images, calories, and costs—each bite a visual delight.
+- **Meal Display**: Feast your eyes on stunning food cards with images, calories, and costs—each bite a visual delight.
 - **Philosophical Touch**: Inspirational lines like “Savor slowly, live deeply” elevate your experience.
-- **Sexy Food Grid**: A homepage showcase of delicious items—vibrant, clickable, and dripping with allure.
+- **Food Grid**: A homepage showcase of delicious items—vibrant, clickable, and dripping with allure.
 - **Know More & Contact**: Informative sections to explore the science and reach out with a whisper.
 - **Smooth Navigation**: A sticky navbar guides you through Home, Contact, Know More, Profile, and Diet Plan.
 - **Dark Cosmic UI**: Gradients, glowing borders, and animations that pulse with every interaction.
